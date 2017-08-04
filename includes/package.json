@@ -1,0 +1,19 @@
+{
+  "name": "starter-wp-plugin-template-with-settings-page",
+  "version": "0.0.1",
+  "description": "This is a blank starter template for developing WordPress Plugins. This starter template uses the Titan Framework for building custom Plugin Settings pages and includes a sample page for users to build off of. In the future, this starter template could include a custom helper library to help build the Plugin Settings pages, built as an extension to the core Titan Framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPPreusDev/Starter-WP-Plugin-Template-With-Settings-Page.git"
+  },
+  "author": "James Preus Jr <james@jppreusdev.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/JPPreusDev/Starter-WP-Plugin-Template-With-Settings-Page/issues"
+  },
+  "homepage": "https://github.com/JPPreusDev/Starter-WP-Plugin-Template-With-Settings-Page#readme"
+}
