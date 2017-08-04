@@ -1,5 +1,5 @@
 # Starter WP Plugin Template With Settings Page
-This is a blank starter template for developing WordPress Plugins. This starter template uses the Titan Framework for building custom Plugin Settings pages and includes a sample page for users to build off of. In the future, this starter template could include a custom helper library to help build the Plugin Settings pages, built as an extension to the core Titan Framework.
+This is a blank starter template for developing WordPress Plugins. This starter template uses the Titan Framework for building custom Plugin Settings pages and includes a sample page for users to build off of.
 
 ## Roadmap
 
